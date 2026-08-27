@@ -1,0 +1,13 @@
+5x5
+q w b r s
+g t y f t
+o h e k a
+o u n s r
+d n d k t
+TEST
+END
+START
+GOOD 
+BYE
+CLEAR
+WIN
